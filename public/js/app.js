@@ -1,3 +1,3 @@
 (function() {
-  var app = angular.module('noteIt', ['noteIt-routes']);
+  var app = angular.module('noteIt', ['noteIt-routes', 'noteIt-directives']);
 }());

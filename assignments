@@ -1,1 +1,3 @@
 Create a new directive for displaying a note on the notes index page
+
+Add isolate scope to our directive an add the ordinal position of the note
